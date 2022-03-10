@@ -24,7 +24,7 @@ $(document).ready(function(){
         $('.menu-btn i').toggleClass("active");
     });
     var typed = new Typed(".typing", {
-        strings: ["I MADE GITA PANGUS (195610075) ", "FIRMAN DHANI PRATAMA(195610061) ", "DIMAS SETIAKI(195610069)", "ROHAYATI UMILATUS SOLEQAH(195610071)"],
+        strings: ["I MADE GITA PANGUS (195610075) ", "FIRMAN DHANI PRATAMA(195610061) ", "DIMAS SETIAKI(195610069)"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
